@@ -1,0 +1,7 @@
+{
+  "inviteLink": "discord-invite-link",
+  "token": "discord-bot-token",
+  "clientId": "discord-bot-client-id",
+  "themeColor": "#2F3136",
+  "mongoURL": "mongo-auth-url"
+}
